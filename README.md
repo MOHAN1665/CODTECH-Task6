@@ -8,6 +8,7 @@
 ## Overview of the Project  
 
 ### Project: TEXT-TO-IMAGE GENERATION APPLICATION 
+![Screenshot](https://github.com/MOHAN1665/CODTECH-Task6/blob/main/image.png)  
 
 ### Objective  
 The objective of this project is to generate images from textual descriptions using the Stable Diffusion model. This involves leveraging the pre-trained StableDiffusionPipeline from the Diffusers library to generate images based on user-provided prompts. The model is optimized to produce high-quality images based on natural language inputs, using GPU acceleration for faster performance.
